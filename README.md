@@ -5,10 +5,14 @@ This dataset provides a comprehensive array of features relevant to heart health
 
 ***Source:*** [Heart Attack Risk Analysis- Kaggle](https://www.kaggle.com/competitions/heart-attack-risk-analysis/overview)
 ### Columns:
-0. ***Patient ID -*** Unique identifier for each patient
-1. ***Age -*** Age of the patient
-2. ***Sex -*** Gender of the patient (Male/Female)
-3. ***Cholesterol -*** Cholesterol levels of the patient
+0. ***Patient ID:*** Unique identifier for each patient
+1. ***Age:*** Age of the patient
+2. ***Sex:*** Gender of the patient (Male/Female)
+3. ***Cholesterol:*** Cholesterol levels of the patient (ranging from 120 to 400)
+  - _under 200:_ Healthy Heart
+  - _200 to 239:_ At Risk
+  - _240 & higher:_ Dangerous
+    ***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean)
 4. ***Blood Pressure -*** Blood pressure of the patient (systolic/diastolic)
 5. ***Heart Rate -*** Heart rate of the patient
 6. ***Diabetes -*** Whether the patient has diabetes (Yes/No)
