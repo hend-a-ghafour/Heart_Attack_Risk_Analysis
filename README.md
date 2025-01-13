@@ -22,24 +22,30 @@ This dataset provides a comprehensive array of features relevant to heart health
   _140 to <180 &/or >90 - <120:_ Stage 2 Hypertension<br>
   _180 & higher &/or 120 & higher:_ Hypertensive Crisis    
   ***Source:*** [Blood Pressure](https://my.clevelandclinic.org/health/diagnostics/17649-blood-pressure) <br>
-5. ***Heart Rate -*** Heart rate of the patient
-6. ***Diabetes -*** Whether the patient has diabetes (Yes/No)
-7. ***Family History -*** Family history of heart-related problems (1: Yes, 0: No)
-8. ***Smoking -*** Smoking status of the patient (1: Smoker, 0: Non-smoker)
-9. ***Obesity -*** Obesity status of the patient (1: Obese, 0: Not obese)
-10. ***Alcohol Consumption -*** Level of alcohol consumption by the patient (None/Light/Moderate/Heavy)
-11. ***Exercise Hours Per Week -*** Number of exercise hours per week
-12. ***Diet -*** Dietary habits of the patient (Healthy/Average/Unhealthy)
-13. ***Previous Heart Problems -*** Previous heart problems of the patient (1: Yes, 0: No)
-14. ***Medication Use -*** Medication usage by the patient (1: Yes, 0: No)
-15. ***Stress Level -*** Stress level reported by the patient (1-10)
-16. ***Sedentary Hours Per Day -*** Hours of sedentary activity per day
-17. ***Income -*** Income level of the patient
-18. ***BMI -*** Body Mass Index (BMI) of the patient
-19. ***Triglycerides -*** Triglyceride levels of the patient
-20. ***Physical Activity Days Per Week -*** Days of physical activity per week
-21. ***Sleep Hours Per Day -*** Hours of sleep per day
-22. ***Country -*** Country of the patient
-23. ***Continent -*** Continent where the patient resides
-24. ***Hemisphere -*** Hemisphere where the patient resides
-25. ***Heart Attack Risk -*** Presence of heart attack risk (1: Yes, 0: No)
+5. ***Heart Rate -*** Heart rate of the patient<br>
+    ***Note:*** <br>
+    _If you want to calculate your maximum and target heart rates yourself, you can use these formulas:_ <br>
+    _220 - your age = maximum._<br>
+    _Maximum x 0.6 = low end of target range._<br>
+    _Maximum x 0.8 = high end of target range._<br>
+   ***Source:*** [Heart Rate](https://my.clevelandclinic.org/health/diagnostics/heart-rate) <br> 
+7. ***Diabetes -*** Whether the patient has diabetes (Yes/No)
+8. ***Family History -*** Family history of heart-related problems (1: Yes, 0: No)
+9. ***Smoking -*** Smoking status of the patient (1: Smoker, 0: Non-smoker)
+10. ***Obesity -*** Obesity status of the patient (1: Obese, 0: Not obese)
+11. ***Alcohol Consumption -*** Level of alcohol consumption by the patient (None/Light/Moderate/Heavy)
+12. ***Exercise Hours Per Week -*** Number of exercise hours per week
+13. ***Diet -*** Dietary habits of the patient (Healthy/Average/Unhealthy)
+14. ***Previous Heart Problems -*** Previous heart problems of the patient (1: Yes, 0: No)
+15. ***Medication Use -*** Medication usage by the patient (1: Yes, 0: No)
+16. ***Stress Level -*** Stress level reported by the patient (1-10)
+17. ***Sedentary Hours Per Day -*** Hours of sedentary activity per day
+18. ***Income -*** Income level of the patient
+19. ***BMI -*** Body Mass Index (BMI) of the patient
+20. ***Triglycerides -*** Triglyceride levels of the patient
+21. ***Physical Activity Days Per Week -*** Days of physical activity per week
+22. ***Sleep Hours Per Day -*** Hours of sleep per day
+23. ***Country -*** Country of the patient
+24. ***Continent -*** Continent where the patient resides
+25. ***Hemisphere -*** Hemisphere where the patient resides
+26. ***Heart Attack Risk -*** Presence of heart attack risk (1: Yes, 0: No)
