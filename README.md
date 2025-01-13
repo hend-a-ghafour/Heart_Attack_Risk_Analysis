@@ -12,8 +12,8 @@ This dataset provides a comprehensive array of features relevant to heart health
   ***Note:*** <br>
   _under 200:_ Healthy Heart<br>
   _200 to 239:_ At Risk<br>
-  _240 & higher:_ Dangerous<br>    
-  ***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean)
+  _240 & higher:_ Dangerous    
+  ***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean) <br>
 4. ***Blood Pressure -*** Blood pressure of the patient (systolic/diastolic)
 5. ***Heart Rate -*** Heart rate of the patient
 6. ***Diabetes -*** Whether the patient has diabetes (Yes/No)
