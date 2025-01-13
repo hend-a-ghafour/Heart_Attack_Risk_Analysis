@@ -15,6 +15,13 @@ This dataset provides a comprehensive array of features relevant to heart health
   _240 & higher:_ Dangerous    
   ***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean) <br>
 4. ***Blood Pressure -*** Blood pressure of the patient (systolic/diastolic)
+***Note:*** <br>
+  _<120 & <80:_ Normal Blood Pressure<br>
+  _120 to 129 & <80:_ Elevated Blood Pressure<br>
+  _130 to 139 &/or 80-89:_ Stage 1 Hypertension<br>
+  _140 to <180 &/or >90 - <120:_ Stage 2 Hypertension<br>
+  _180 & higher &/or 120 & higher:_ Hypertensive Crisis    
+  ***Source:*** [Blood Pressure](https://my.clevelandclinic.org/health/diagnostics/17649-blood-pressure) <br>
 5. ***Heart Rate -*** Heart rate of the patient
 6. ***Diabetes -*** Whether the patient has diabetes (Yes/No)
 7. ***Family History -*** Family history of heart-related problems (1: Yes, 0: No)
