@@ -45,7 +45,7 @@ _Obesity is a chronic complex disease defined by excessive fat deposits that can
 14. ***Previous Heart Problems:*** Previous heart problems of the patient (1: Yes, 0: No)
 15. ***Medication Use:*** Medication usage by the patient (1: Yes, 0: No)
 16. ***Stress Level:*** Stress level reported by the patient (1-10), where _1_ is the lowest & _10_ is the highest.
-17. ***Sedentary Hours Per Day:*** Hours of sedentary activity per day <br>
+17. ***Sedentary Hours Per Day:*** Hours of sedentary activity per day (between 0.0013 & 11.9993 hrs/day)<br>
 ***Note:*** <br>
 _According to the charity [Just Stand](https://www.juststand.org/the-tools/sitting-time-calculator/), the following thresholds determine a person’s risk of developing health problems due to sitting:_ <br>
 _Low risk:_ Sitting for less than 4 hours per day. <br>
@@ -53,7 +53,7 @@ _Medium risk:_ Sitting for 4–8 hours per day. <br>
 _High risk:_ Sitting for 8–11 hours per day. <br>
 _Very high risk:_ Sitting for more than 11 hours per day. <br>
 ***Source:*** [What happens to the body after sitting down for too long?](https://www.medicalnewstoday.com/articles/sitting-down-all-day#how-long-is-too-long) <br> <br>
-18. ***Income -*** Income level of the patient
+18. ***Income -*** Income level of the patient (between 20,062 & 299,954)
 19. ***BMI -*** Body Mass Index (BMI) of the patient
 20. ***Triglycerides -*** Triglyceride levels of the patient
 21. ***Physical Activity Days Per Week -*** Days of physical activity per week
