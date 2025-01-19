@@ -27,7 +27,7 @@ This dataset provides a comprehensive array of features relevant to heart health
     _If you want to calculate your maximum and target heart rates yourself, you can use these formulas:_ <br>
     _220 - your age = maximum._<br>
     _Maximum x 0.6 = low end of target range._<br>
-    _Maximum x 0.8 = high end of target range._
+    _Maximum x 0.8 = high end of target range._<br>
    ***Source:*** [Heart Rate](https://my.clevelandclinic.org/health/diagnostics/heart-rate) <br> <br>
 7. ***Diabetes:*** Whether the patient has diabetes (1:Yes, 2:No)<br>
 ***Note:*** <br>
