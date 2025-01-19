@@ -8,7 +8,7 @@ This dataset provides a comprehensive array of features relevant to heart health
 0. ***Patient ID:*** Unique identifier for each patient (7010 Patient)
 1. ***Age:*** Age of the patient (ranging from 18 to 90)
 2. ***Sex:*** Gender of the patient (Male/Female) <br><br>
-3. ***Cholesterol:*** Cholesterol levels of the patient (ranging from 120 to 400)<br>
+3. ***Cholesterol:*** Cholesterol levels of the patient (ranging from 120 to 400 mg/dl)<br>
   ***Note:*** <br>
   _under 200:_ Healthy Heart<br>
   _200 to 239:_ At Risk<br>
@@ -22,14 +22,14 @@ This dataset provides a comprehensive array of features relevant to heart health
   _140 to <180 &/or >90 - <120:_ Stage 2 Hypertension<br>
   _180 & higher &/or 120 & higher:_ Hypertensive Crisis    
   ***Source:*** [Blood Pressure](https://my.clevelandclinic.org/health/diagnostics/17649-blood-pressure) <br><br>
-5. ***Heart Rate:*** Heart rate of the patient<br>
+5. ***Heart Rate:*** Heart rate of the patient (Between 40 and 110 beats/min)<br>
     ***Note:*** <br>
     _If you want to calculate your maximum and target heart rates yourself, you can use these formulas:_ <br>
     _220 - your age = maximum._<br>
     _Maximum x 0.6 = low end of target range._<br>
     _Maximum x 0.8 = high end of target range._<br>
    ***Source:*** [Heart Rate](https://my.clevelandclinic.org/health/diagnostics/heart-rate) <br> <br>
-7. ***Diabetes:*** Whether the patient has diabetes (Yes/No)<br>
+7. ***Diabetes:*** Whether the patient has diabetes (1:Yes, 2:No)<br>
 ***Note:*** <br>
 _Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood glucose._<br>
    ***Source:*** [Diabetes](https://www.who.int/news-room/fact-sheets/detail/diabetes#:~:text=Diabetes%20is%20a%20chronic%20disease,hormone%20that%20regulates%20blood%20glucose.) <br> <br>
