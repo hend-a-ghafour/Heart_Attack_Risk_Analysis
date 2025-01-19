@@ -54,7 +54,14 @@ _High risk:_ Sitting for 8–11 hours per day. <br>
 _Very high risk:_ Sitting for more than 11 hours per day. <br>
 ***Source:*** [What happens to the body after sitting down for too long?](https://www.medicalnewstoday.com/articles/sitting-down-all-day#how-long-is-too-long) <br> <br>
 18. ***Income -*** Income level of the patient (between 20,062 & 299,954)
-19. ***BMI -*** Body Mass Index (BMI) of the patient
+19. ***BMI -*** Body Mass Index (BMI) of the patient<br>
+***Note:*** <br>
+_BMI will fit into one of 5 bands:_ <br>
+_Underweight:_ under 18.5 <br>
+_Healthy Range:_ between 18.5 and 24.9 <br>
+_Overweight:_ between 25 and 29.9  <br>
+_Obesity:_ between 30 and 39.9 <br>
+_Severe Obesity:_ 40 & over <br>
 20. ***Triglycerides -*** Triglyceride levels of the patient
 21. ***Physical Activity Days Per Week -*** Days of physical activity per week
 22. ***Sleep Hours Per Day -*** Hours of sleep per day
