@@ -39,8 +39,8 @@ _Diabetes is a chronic disease that occurs either when the pancreas does not pro
 ***Note:*** <br>
 _Obesity is a chronic complex disease defined by excessive fat deposits that can impair health. Obesity can lead to increased risk of type 2 diabetes and heart disease, it can affect bone health and reproduction, it increases the risk of certain cancers. Obesity influences the quality of living, such as sleeping or moving._ <br>
 ***Source:*** [Obesity](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight#:~:text=Obesity%20is%20a%20chronic%20complex,the%20risk%20of%20certain%20cancers.) <br> <br>
-11. ***Alcohol Consumption:*** Level of alcohol consumption by the patient (None/Light/Moderate/Heavy)
-12. ***Exercise Hours Per Week:*** Number of exercise hours per week
+11. ***Alcohol Consumption:*** Level of alcohol consumption by the patient (1:Yes, 2:No)
+12. ***Exercise Hours Per Week:*** Number of exercise hours per week (Exercise hours are between 0.0024 & 19.9987 hrs/week)
 13. ***Diet:*** Dietary habits of the patient (Healthy/Average/Unhealthy)
 14. ***Previous Heart Problems:*** Previous heart problems of the patient (1: Yes, 0: No)
 15. ***Medication Use:*** Medication usage by the patient (1: Yes, 0: No)
