@@ -12,7 +12,7 @@ This dataset provides a comprehensive array of features relevant to heart health
   ***Note:*** <br>
   _Healthy Heart:_ under 200 <br>
   _At Risk:_ 200 to 239<br>
-  _Dangerous:_ 240 & higher <br>    
+  _Dangerous:_ 240 & higher    
   ***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean) <br><br>
 4. ***Blood Pressure:*** Blood pressure of the patient (systolic/diastolic)<br>
 ***Note:*** <br>
@@ -20,14 +20,14 @@ This dataset provides a comprehensive array of features relevant to heart health
   _Elevated Blood Pressure:_ 120 to 129 & <80<br>
   _Stage 1 Hypertension:_ 130 to 139 &/or 80-89<br>
   _Stage 2 Hypertension:_ 140 to <180 &/or >90 - <120<br>
-  _Hypertensive Crisis:_ 180 & higher &/or 120 & higher <br>   
+  _Hypertensive Crisis:_ 180 & higher &/or 120 & higher   
   ***Source:*** [Blood Pressure](https://my.clevelandclinic.org/health/diagnostics/17649-blood-pressure) <br><br>
 5. ***Heart Rate:*** Heart rate of the patient (Between 40 and 110 beats/min)<br>
     ***Note:*** <br>
     _If you want to calculate your maximum and target heart rates yourself, you can use these formulas:_ <br>
     _220 - your age = maximum._<br>
     _Maximum x 0.6 = low end of target range._<br>
-    _Maximum x 0.8 = high end of target range._<br>
+    _Maximum x 0.8 = high end of target range._
    ***Source:*** [Heart Rate](https://my.clevelandclinic.org/health/diagnostics/heart-rate) <br> <br>
 7. ***Diabetes:*** Whether the patient has diabetes (1:Yes, 2:No)<br>
 ***Note:*** <br>
