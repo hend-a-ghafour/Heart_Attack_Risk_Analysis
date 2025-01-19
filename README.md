@@ -5,8 +5,8 @@ This dataset provides a comprehensive array of features relevant to heart health
 
 ***Source:*** [Heart Attack Risk Analysis- Kaggle](https://www.kaggle.com/competitions/heart-attack-risk-analysis/overview)
 ### Columns:
-0. ***Patient ID:*** Unique identifier for each patient
-1. ***Age:*** Age of the patient
+0. ***Patient ID:*** Unique identifier for each patient (7010 Patient)
+1. ***Age:*** Age of the patient (ranging from 18 to 90)
 2. ***Sex:*** Gender of the patient (Male/Female) <br><br>
 3. ***Cholesterol:*** Cholesterol levels of the patient (ranging from 120 to 400)<br>
   ***Note:*** <br>
