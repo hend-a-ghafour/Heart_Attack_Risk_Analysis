@@ -74,7 +74,7 @@ _Severe:_ Greater than 500 mg/dL. <br>
 ***Source:*** [Triglycerides](https://my.clevelandclinic.org/health/articles/11117-triglycerides)<br><br>
 20. ***Physical Activity Days Per Week -*** Days of physical activity per week (between 0 & 7 days/week)<br><br>
 21. ***Sleep Hours Per Day -*** Hours of sleep per day (4 hrs/day & 10 hrs/day)<br><br>
-22. ***Country -*** Country of the patient<br><br>
-23. ***Continent -*** Continent where the patient resides<br><br>
-24. ***Hemisphere -*** Hemisphere where the patient resides<br><br>
+22. ***Country -*** Country of the patient (20 Countries)<br><br>
+23. ***Continent -*** Continent where the patient resides (6 Continents)<br><br>
+24. ***Hemisphere -*** Hemisphere where the patient resides (Southern Hemisphere & Northern Hemisphere)<br><br>
 25. ***Heart Attack Risk -*** Presence of heart attack risk (1: Yes, 0: No)<br><br>
