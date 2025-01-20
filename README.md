@@ -54,7 +54,7 @@ _High risk:_ Sitting for 8–11 hours per day. <br>
 _Very high risk:_ Sitting for more than 11 hours per day. <br>
 ***Source:*** [What happens to the body after sitting down for too long?](https://www.medicalnewstoday.com/articles/sitting-down-all-day#how-long-is-too-long) <br> <br>
 17. ***Income -*** Income level of the patient (between 20,062 & 299,954)<br><br>
-18. ***BMI -*** Body Mass Index (BMI) of the patient<br>
+18. ***BMI -*** Body Mass Index (BMI) of the patient (between 18.0023 & 39.9936)<br>
 ***Note:*** <br>
 _BMI will fit into one of 5 bands:_ <br>
 _Underweight:_ under 18.5 <br>
@@ -63,7 +63,7 @@ _Overweight:_ between 25 and 29.9  <br>
 _Obesity:_ between 30 and 39.9 <br>
 _Severe Obesity:_ 40 & over <br>
 ***Source:*** [Body mass index (BMI)](https://www.nhsinform.scot/healthy-living/food-and-nutrition/healthy-eating-and-weight-management/body-mass-index-bmi/#:~:text=between%2018.5%20and%2024.9%20%E2%80%93%20This,is%20described%20as%20severe%20obesity)<br><br>
-19. ***Triglycerides -*** Triglyceride levels of the patient<br>
+19. ***Triglycerides -*** Triglyceride levels of the patient (between 30 mg/dL & 800 mg/dL)<br>
 ***Notes:*** <br>
 _Triglycerides are a very common kind of fat in your body. They’re in butter and other fats in food. You also make triglycerides from extra calories to use later. But high triglyceride levels can raise your risk of issues like heart attacks and strokes. Exercise and other healthy habits can bring triglyceride levels back to normal.**Normal and high triglyceride levels would be as follows:**_ <br>
 _Normal (Ages between 10 & 19):_ below 90 mg/dL. <br>
@@ -72,8 +72,8 @@ _Mild:_ 150-199 mg/dL. <br>
 _Moderate:_ 200-499 mg/dL. <br>
 _Severe:_ Greater than 500 mg/dL. <br>
 ***Source:*** [Triglycerides](https://my.clevelandclinic.org/health/articles/11117-triglycerides)<br><br>
-20. ***Physical Activity Days Per Week -*** Days of physical activity per week<br><br>
-21. ***Sleep Hours Per Day -*** Hours of sleep per day<br><br>
+20. ***Physical Activity Days Per Week -*** Days of physical activity per week (between 0 & 7 days/week)<br><br>
+21. ***Sleep Hours Per Day -*** Hours of sleep per day (4 hrs/day & 10 hrs/day)<br><br>
 22. ***Country -*** Country of the patient<br><br>
 23. ***Continent -*** Continent where the patient resides<br><br>
 24. ***Hemisphere -*** Hemisphere where the patient resides<br><br>
