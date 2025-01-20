@@ -63,7 +63,16 @@ _Overweight:_ between 25 and 29.9  <br>
 _Obesity:_ between 30 and 39.9 <br>
 _Severe Obesity:_ 40 & over <br>
 ***Source:*** [Body mass index (BMI)](https://www.nhsinform.scot/healthy-living/food-and-nutrition/healthy-eating-and-weight-management/body-mass-index-bmi/#:~:text=between%2018.5%20and%2024.9%20%E2%80%93%20This,is%20described%20as%20severe%20obesity)<br><br>
-19. ***Triglycerides -*** Triglyceride levels of the patient<br><br>
+19. ***Triglycerides -*** Triglyceride levels of the patient<br>
+***Note:*** <br>
+_Triglycerides are a very common kind of fat in your body. They’re in butter and other fats in food. You also make triglycerides from extra calories to use later. But high triglyceride levels can raise your risk of issues like heart attacks and strokes. Exercise and other healthy habits can bring triglyceride levels back to normal._ <br>
+_Normal and high triglyceride levels:_ <br>
+_Normal (Ages between 10 & 19):_ below 90 mg/dL. <br>
+_Normal (Adults):_ below 150 mg/dL. <br>
+_Mild:_ 150-199 mg/dL. <br>
+_Moderate:_ 200-499 mg/dL. <br>
+_Severe:_ Greater than 500 mg/dL. <br>
+***Source:*** [Triglycerides](https://my.clevelandclinic.org/health/articles/11117-triglycerides)<br><br>
 20. ***Physical Activity Days Per Week -*** Days of physical activity per week<br><br>
 21. ***Sleep Hours Per Day -*** Hours of sleep per day<br><br>
 22. ***Country -*** Country of the patient<br><br>
