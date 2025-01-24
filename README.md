@@ -9,11 +9,11 @@ This dataset provides a comprehensive array of features relevant to heart health
 1. ***Age:*** Age of the patient (ranging from 18 to 90)<br><br>
 2. ***Sex:*** Gender of the patient (Male/Female) <br><br>
 3. ***Cholesterol:*** Cholesterol levels of the patient (ranging from 120 to 400 mg/dl)<br>
-     [!NOTE] 
-           >_Healthy Heart:_ under 200<br>
-            >_At Risk:_ 200 to 239<br>
-           > _Dangerous:_ 240 & higher    
-   >***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean) <br><br>
+[!NOTE] 
+> _Healthy Heart:_ under 200<br>
+> _At Risk:_ 200 to 239<br>
+> _Dangerous:_ 240 & higher    
+> ***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean) <br><br>
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
