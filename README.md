@@ -14,6 +14,20 @@ This dataset provides a comprehensive array of features relevant to heart health
             >_At Risk:_ 200 to 239<br>
            > _Dangerous:_ 240 & higher    
    >***Source:*** [Cholesterol Levels](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean) <br><br>
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 4. ***Blood Pressure:*** Blood pressure of the patient (systolic/diastolic)<br>
     > ***Note:*** <br>
   _Normal Blood Pressure:_ <120 & <80<br>
