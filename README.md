@@ -24,10 +24,10 @@ This dataset provides a comprehensive array of features relevant to heart health
 >  ***Source:*** [Blood Pressure](https://my.clevelandclinic.org/health/diagnostics/17649-blood-pressure) 
 5. ***Heart Rate:*** Heart rate of the patient (Between 40 and 110 beats/min)
 > [!NOTE]
-> _If you want to calculate your maximum and target heart rates yourself, you can use these formulas:_ 
-> 1. _220 - your age = maximum._
-> 2. _Maximum x 0.6 = low end of target range._
-> 3. _Maximum x 0.8 = high end of target range._ <br>
+> _If you want to calculate your maximum and target heart rates yourself, you can use these formulas:_ <br>
+> a) _220 - your age = maximum._ <br>
+> b) _Maximum x 0.6 = low end of target range._ <br>
+> c) _Maximum x 0.8 = high end of target range._ <br>
 >   ***Source:*** [Heart Rate](https://my.clevelandclinic.org/health/diagnostics/heart-rate) 
 6. ***Diabetes:*** Whether the patient has diabetes (1:Yes, 2:No)
 > [!NOTE]
