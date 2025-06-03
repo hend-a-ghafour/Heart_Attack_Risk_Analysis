@@ -77,4 +77,4 @@ This dataset provides a comprehensive array of features relevant to heart health
 22. ***Country -*** Country of the patient (20 Countries)<br><br>
 23. ***Continent -*** Continent where the patient resides (6 Continents)<br><br>
 24. ***Hemisphere -*** Hemisphere where the patient resides (Southern Hemisphere & Northern Hemisphere)<br><br>
-25. ***Heart Attack Risk -*** Presence of heart attack risk (1: Yes, 0: No)<br><br>
+25. ***Heart Attack Risk -*** Presence of heart attack risk (1: Yes, 0: No)
