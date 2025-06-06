@@ -6,3 +6,4 @@
 5. blood pressure finding a way to split this column according to (systolic/diastolic)
 6. grouping blood pressure according to its levels
 7. grouping heart rate according to its levels
+8. categorising exercise hours
