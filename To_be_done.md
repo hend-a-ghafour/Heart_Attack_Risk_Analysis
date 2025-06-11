@@ -7,3 +7,4 @@
 6. grouping blood pressure according to its levels
 7. grouping heart rate according to its levels
 8. categorising exercise hours
+9. Arrange the 5 number summary (data assessing)
