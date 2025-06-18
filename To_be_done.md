@@ -8,3 +8,4 @@
 7. grouping heart rate according to its levels ***Done***
 8. categorising exercise hours
 9. Arrange the 5 number summary (data assessing) ***Done***
+10. performing EDA
