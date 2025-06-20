@@ -9,3 +9,4 @@
 8. categorising exercise hours
 9. Arrange the 5 number summary (data assessing) ***Done***
 10. performing EDA
+11. evaluating how all these elements would affect the heart attack risk
